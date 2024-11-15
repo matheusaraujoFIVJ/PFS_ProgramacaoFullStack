@@ -1,0 +1,14 @@
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\bin\Debug\net8.0\EXTENSIONMETHODS.exe
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\bin\Debug\net8.0\EXTENSIONMETHODS.deps.json
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\bin\Debug\net8.0\EXTENSIONMETHODS.runtimeconfig.json
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\bin\Debug\net8.0\EXTENSIONMETHODS.dll
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\bin\Debug\net8.0\EXTENSIONMETHODS.pdb
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\obj\Debug\net8.0\EXTENSIONMETHODS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\obj\Debug\net8.0\EXTENSIONMETHODS.AssemblyInfoInputs.cache
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\obj\Debug\net8.0\EXTENSIONMETHODS.AssemblyInfo.cs
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\obj\Debug\net8.0\EXTENSIONMETHODS.csproj.CoreCompileInputs.cache
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\obj\Debug\net8.0\EXTENSIONMETHODS.dll
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\obj\Debug\net8.0\refint\EXTENSIONMETHODS.dll
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\obj\Debug\net8.0\EXTENSIONMETHODS.pdb
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\obj\Debug\net8.0\EXTENSIONMETHODS.genruntimeconfig.cache
+C:\Users\Mayller\Desktop\EXTENSIONMETHODS\obj\Debug\net8.0\ref\EXTENSIONMETHODS.dll
